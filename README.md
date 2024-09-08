@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vishal-sharma-11
 - 👀 I’m interested in C++, DSA, Machine Learning
-- 🌱 I’m currently learning DSA in C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Email-vsvishalsharma11@gmail.com
 

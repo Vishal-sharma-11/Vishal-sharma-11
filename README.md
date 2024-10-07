@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishal-sharma-11
-- 👀 I’m interested in C++, DSA, Machine Learning
-- 💞️ I’m looking to collaborate on ...
+I’m an Electronics and Communication Engineering student with a passion for web development. I specialize in front-end technologies, using HTML, CSS, JavaScript, and React to build interactive and responsive web applications.
+I'm always looking for new challenges to improve my skills, collaborate on projects, and contribute to open-source communities.
 - 📫 How to reach me - Email-vsvishalsharma11@gmail.com
 
 <!---
